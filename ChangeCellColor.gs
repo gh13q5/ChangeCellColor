@@ -36,6 +36,8 @@ function onEdit(e) {
     case (spreadSheet.getRangeByName('RightSub2ThemeColor').getA1Notation()):
       setCellColor('RightSub2ThemeColor', rightSub2Theme);
       break;
+    default:
+      break;
   }
 }
 
