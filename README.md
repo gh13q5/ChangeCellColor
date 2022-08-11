@@ -5,6 +5,9 @@ This is the automatic cell color change script used in the 'Call of Cthulhu (CoC
 🔗 Google Sheets Link  
 <https://docs.google.com/spreadsheets/d/1uVmmVHaWjRT0KbeY9JU2jq5POWln6892oZQ_GNvgRTc/edit?usp=sharing>  
 
+![sample](https://user-images.githubusercontent.com/35606917/184120881-7eda49e3-3aad-402f-b678-7924bedefa6c.gif)
+
+
 ⚠️ 동작 방식 ⚠️
 1. 우측 상단의 셀 색깔 변경 시, onEdit 트리거가 발동하며 '이름이 지정된 범위'로 설정된 셀들의 색깔을 변경합니다.
 2. '이름이 지정된 범위'의 이름은 'LeftMainTheme...', 'RightSub1Theme...'와 같은 명명규칙을 따릅니다. 예를 들어 'LeftMainTheme...'으로 지정된 범위들은 왼쪽 시트의 메인색을 변경했을 때 셀 색깔이 변경됩니다.
