@@ -1,10 +1,10 @@
 # ChangeCellColor
 구글 시트의 셀 색깔을 자동으로 변경해주는 스크립트입니다.  
-예시로 사용된 시트는 '크툴루의 부름(CoC)' 탐사자 시트입니다.  
+해당 스크립트가 사용된 시트는 '크툴루의 부름(CoC) 7th' 탐사자 시트입니다.  
 This is a script that automatically changes the cell color of Google Sheets.  
-The sheet used as an example is the investigator sheet from Call of Cthulhu(CoC).  
+The sheet where this script was used is the investigator sheet from Call of Cthulhu(CoC) 7th.  
   
-🔗 Link  
+🔗 Google Sheets Link  
 <https://docs.google.com/spreadsheets/d/1uVmmVHaWjRT0KbeY9JU2jq5POWln6892oZQ_GNvgRTc/edit?usp=sharing>  
 
 ⚠️ 동작 방식 ⚠️
